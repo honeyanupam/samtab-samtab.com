@@ -1,0 +1,3 @@
+
+[02-Jun-2018 08:57:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16777224 bytes) in /home/samtab/public_html/QR/vendor/khanamiryan/qrcode-detector-decoder/lib/GDLuminanceSource.php on line 79
+[02-Jun-2018 08:57:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16777224 bytes) in /home/samtab/public_html/QR/vendor/khanamiryan/qrcode-detector-decoder/lib/GDLuminanceSource.php on line 79

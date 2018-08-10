@@ -1,0 +1,7 @@
+<?php 
+require "vendor/autoload.php";
+$qrcode = new QrReader ('115.jpg');
+$text = $qrcode->text();
+print_r($text);
+?>
+ 

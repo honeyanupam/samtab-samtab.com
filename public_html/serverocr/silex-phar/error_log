@@ -1,0 +1,2 @@
+[15-May-2018 05:09:11 America/New_York] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[15-May-2018 05:09:11 America/New_York] PHP Warning:  file_get_contents(https://getcomposer.org/installer): failed to open stream: no suitable wrapper could be found in Command line code on line 1
